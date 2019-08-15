@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="title_activity_customised_row">customised_row</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_insert_reminder_failed">Unable to create new reminder</string>
+    <string name="editor_insert_reminder_successful">New Reminder Created</string>
+</resources>
